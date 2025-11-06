@@ -8,6 +8,7 @@
 
 This service provides an API for storing customer data during the checkout process. Data is stored in Redis.
 
+<!-- GitOps Test: Chandan Singh Testing improved change detection workflow -->
 ## Configuration
 
 The following environment variables are available for configuring the service:

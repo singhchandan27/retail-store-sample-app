@@ -1,7 +1,7 @@
 # AWS Containers Retail Sample - Catalog Service
 
 <!-- GitOps Test: Final workflow validation -->
-
+<!-- Chandan Kidhar hai aaj kal >
 | Language | Persistence |
 | -------- | ----------- |
 | Go       | MySQL       |
